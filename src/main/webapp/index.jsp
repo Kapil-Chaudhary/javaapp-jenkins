@@ -7,6 +7,7 @@
 	<h3>in this app we are going to deploy things</h3>
 	<p>Hi, This is text</p>
 	<a href="about.jsp">About page</a>
+	<a href="service.jsp">Service page</a>
 
 </body>
 </html>
