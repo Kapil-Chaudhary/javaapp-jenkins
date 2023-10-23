@@ -8,6 +8,7 @@
 	<p>Hi, This is text</p>
 	<a href="about.jsp">About page</a>
 	<a href="service.jsp">Service page</a>
+	<a href="test.jsp">Test page</a>
 
 </body>
 </html>
